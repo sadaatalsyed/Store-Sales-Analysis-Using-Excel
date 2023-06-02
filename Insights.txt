@@ -1,0 +1,12 @@
+Insights
+
+1- Women are more likely to buy compared to men (~65%)
+2- Maharashtra, Karnatka and Utter Pradesh are top three states where cusmoters come from.(~35%)
+3- Adult age group (30-50) is maximum contributing (~50%) towards sales. and of this group mostly are girls.
+4- Amazon, Flipkart, and Myntra channels are maximum contributing.(~80)
+
+Recommendations to Improve Sales
+
+-- Focus on women products and these should be mostly for adults aged 30 to 50. as for market area considering maximum contributing 
+   states i.e Mahrashtra,Karnataka, UP will most likely increase sales and hence profit. as for channels Amazon, Flipcart,
+   and Myntra should be main channels

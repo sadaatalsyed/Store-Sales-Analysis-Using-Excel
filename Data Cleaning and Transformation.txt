@@ -1,0 +1,9 @@
+Procedure for Data Cleaning and Transformation
+
+1- Gender column contianed 4 types of vlaues: Men, Women, M and W I replaced W and M with Women and Men Respectively using Find & Replace Method.
+2- Checked other Columns for any anomalies
+3- Qty column was expected to contain  integers but contained "one" and "two" text values in large amount.So , these need to be replaced using Find & Replace Method.
+4- Calculated AgeGroup (Teenager, Adult, Senior) Column from Age column using formula =IF(E2>=50,"Senior",IF(E2>=30,"Adult","Teenager"))
+5- Calculated  Month Column from Date Column Using Formula =Text(G2,"mmmm") mmm/mmmm give month Dec/December.
+
+ 
